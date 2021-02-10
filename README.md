@@ -1,5 +1,6 @@
-<!--![daniel](https://user-images.githubusercontent.com/50754671/107566156-48da6880-6bc3-11eb-8dc3-6b0d090dfb87.png)
-![tenor](https://user-images.githubusercontent.com/50754671/107566232-6576a080-6bc3-11eb-854d-a681fb8095db.gif)-->
+<!---->
+![daniel - Copia](https://user-images.githubusercontent.com/50754671/107567522-8b507500-6bc4-11eb-8731-84bf51f43cef.png)
+![tenor (1)](https://user-images.githubusercontent.com/50754671/107567524-8b507500-6bc4-11eb-8fc7-6bd159de5f28.gif)
 
 
 
