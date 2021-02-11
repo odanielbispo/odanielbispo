@@ -10,6 +10,8 @@ Java enthusiast, Coffe lover, Javascript fan, curious and dog lover in my spare 
 <img align="left" alt="CSS" width="28px" src="https://marioaraque.com/sites/default/files/styles/large/public/field/image/css3.png?itok=2UEAdQyB" />
 <img align="left" alt="IntelliJ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 <img align="left" alt="VSCode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
+<img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
+<img align="left" alt="Flutter" width="25px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
 
 <br><br>
 
