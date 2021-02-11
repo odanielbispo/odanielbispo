@@ -1,6 +1,6 @@
 <h2> Hello, I'm Daniel Bispo! <img src="https://github.githubassets.com/images/icons/emoji/shipit.png" width="40"></h2>
 
-Java enthusiast, Coffe lover, Javascript fan, curious and dog lover in my spare time. I'm from Brazil, living in Franca - São Paulo. You can find me on [LinkedIn](https://www.linkedin.com/in/danielbispo), or on [Instragram](instagram.com/odanielbispo).
+Java enjoyer, Javascript enthusiast, Coffe lover, curious and dog lover in my spare time. I'm from Brazil, living in Franca - São Paulo. You can find me on [LinkedIn](https://www.linkedin.com/in/danielbispo), or on [Instragram](instagram.com/odanielbispo).
 
 ### Technologies & Tools 🔧
 
