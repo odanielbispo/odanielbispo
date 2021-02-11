@@ -1,4 +1,4 @@
-### Hello, I'm Daniel 👋
+<h2> Hello, I'm Daniel Bispo! <img src="https://github.githubassets.com/images/icons/emoji/shipit.png" width="40"></h2>
 
 Java enthusiast, Coffe lover, Javascript fan, curious and dog lover in my spare time. I'm from Brazil, living in Franca - São Paulo. You can find me on [LinkedIn](https://www.linkedin.com/in/danielbispo), or on [Instragram](instagram.com/odanielbispo).
 
@@ -21,4 +21,5 @@ Currently improving my development skills: Java and JS stack.
 
 <br>
 
-*"Tenho sangrado demais, tenho chorado pra cachorro, Ano passado eu morri mas esse ano eu não morro" - Belchior*
+<img src="https://cdn.colab55.com/images/5501/studio/64257/art/159410/tiles.png" width="40"> <em><b>"Tenho sangrado demais, tenho chorado pra cachorro, Ano passado eu morri mas esse ano eu não morro" - Belchior</b> :)</em>
+
