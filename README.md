@@ -11,6 +11,8 @@ Java enthusiast, Coffe lover, Javascript fan, curious and dog lover in my spare 
 <img align="left" alt="IntelliJ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 <img align="left" alt="VSCode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
 
+<br><br>
+
 ### What I'm focusing on 👨‍💻
 
 Currently improving my development skills: Java and JS stack.
