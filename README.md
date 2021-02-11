@@ -21,5 +21,5 @@ Currently improving my development skills: Java and JS stack.
 
 <br>
 
-<em><b>"Tenho sangrado demais, tenho chorado pra cachorro, Ano passado eu morri mas esse ano eu não morro" - Belchior</b> :)</em><img src="https://instabio.cdn.fotoee.com/20200523/00383685537" width="40"> 
+<em><b>"Tenho sangrado demais, tenho chorado pra cachorro, Ano passado eu morri mas esse ano eu não morro" - Belchior</b></em> 
 
