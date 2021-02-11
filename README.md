@@ -16,3 +16,7 @@ Java enthusiast, Coffe lover, Javascript fan, curious and dog lover in my spare 
 ### What I'm focusing on 👨‍💻
 
 Currently improving my development skills: Java and JS stack.
+
+<br>
+
+*"Tenho sangrado demais, tenho chorado pra cachorro, Ano passado eu morri mas esse ano eu não morro" - Belchior*
