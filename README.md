@@ -10,9 +10,11 @@ Java enjoyer, Javascript enthusiast, Coffe lover and curious in my spare time. I
 <img align="left" alt="CSS" width="28px" src="https://marioaraque.com/sites/default/files/styles/large/public/field/image/css3.png?itok=2UEAdQyB" />
 <img align="left" alt="IntelliJ" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="VSCode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" />
+
+<!-- desativei pois pretendo me aprofundar mais nos estudos em Dart/Flutter.
 <img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />
 <img align="left" alt="Flutter" width="25px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-
+-->
 <br><br>
 
 ### What I'm focusing on 👨‍💻
