@@ -23,5 +23,5 @@ Currently improving my development skills: Java and JS stack.
 
 <br>
 
-<em><b>"Tenho sangrado demais, tenho chorado pra cachorro, Ano passado eu morri mas esse ano eu não morro" - Belchior</b></em> 
+<em><b>"Uma luz azul me guia com a firmeza e os lampejos do farol"</b></em> 
 
