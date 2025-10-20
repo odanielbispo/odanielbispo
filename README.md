@@ -1,6 +1,6 @@
 <h2> Fala aí, belê?! Daniel aqui! <img src="https://github.githubassets.com/images/icons/emoji/shipit.png" width="40"></h2>
 
-Sou QA com experiencia em Suporte Técnico e atendimento ao cliente, com foco em **Garantia da Qualidade de Software**, explorando diferentes tipos de testes e boas práticas.
+Sou QA em desenvolvimento com experiencia em Suporte Técnico e atendimento ao cliente, com foco em **Garantia da Qualidade de Software**, explorando diferentes tipos de testes e boas práticas.
 <br><br>
 Você pode me encontrar no <a href="https://www.linkedin.com/in/danielbispo">LinkedIn.</a>
 
